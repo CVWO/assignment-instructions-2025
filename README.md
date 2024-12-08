@@ -8,7 +8,7 @@ Welcome to the CVWO Winter Assignment! Please find the detailed instructions [he
 
 1. **Mid-Assignment Submission**: Due on 5th January 2025.
    - Submission Link: [Mid-Assignment Submission Form](https://forms.gle/m1Ny3JttYZZVonC39)
-2. **Final Submission**: Due on 25th January 2025.
+2. **Final Submission**: Due on 26th January 2025.
    - Submission Link: [Final Submission Form](https://forms.gle/nStP5Ezy6YrSWc8h7)
 
 Please refer to the assignment handout for more detailed requirements.
