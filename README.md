@@ -23,7 +23,7 @@ Please refer to the assignment handout for more detailed requirements.
 
 - General queries about CVWO or the assignment can be submitted via this form: [General Queries Form](https://forms.gle/bHRXaMz6c1ZgLRWb6). Answers to frequently asked questions will be compiled [here](https://shorturl.at/awD49). Please note that Rails, Go, or React specific questions will not be answered.
 
-- For further inquiries, contact us at [cvwo.assignment@u.nus.edu](cvwo.assignment@u.nus.edu). Join the Telegram discussion group [CVWO_2425_Discussion](https://t.me/CVWO_2425_Discussion) and the announcement channel [CVWO_2425](https://t.me/CVWO_2425) for updates and communication.
+- For further inquiries, contact us at [cvwo.assignment@u.nus.edu](mailto:cvwo.assignment@u.nus.edu). Join the Telegram discussion group [CVWO_2425_Discussion](https://t.me/CVWO_2425_Discussion) and the announcement channel [CVWO_2425](https://t.me/CVWO_2425) for updates and communication.
 
 ## Wishing You Success
 
